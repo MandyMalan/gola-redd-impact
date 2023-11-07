@@ -1,0 +1,18 @@
+Family_indicators,Description
+Forest loss,Loss of forest (vegetation cover of >5m over >30% of the site) at a satellite resolution of 30m
+Primary forest loss,Loss of old growth forest (classified through extensive ground measurements)
+Secondary forest loss,Loss of secondary forest measured as conversiom of fallow to production agriculture
+Economic wellbeing family,Summary index - average of z-scores of all components
+Income index,Summary index - average of z-scores of total income and expenditures in previous calendar year
+Assets index,Assets summary index - weighted average of z-scores of all assets owned in previous calendar year
+Durable loan size,Amount borrowed for durable investments in previous calendar year (1000 Le)
+Resilience,Able to get money to deal with emergency in previous calendar year (y/n)
+Conservation norms family,Summary index - average of z-scores of all components
+Conservation attitudes,"Agreement with pro-conservation statements (sum of Likert questions, 4-20)"
+Awareness of conservation norms,Number of questions about rules correctly answered (0-5)
+Sustainable farming practices,Number of sustainable farming practices used (0-4)
+Human wildlife conflict perceptions,"Perception of how big of a problem crop raiding is  (Scale, 0-3)"
+Labour acces index,"Average of three farm labour access variables (upland rice, wetland rice, plantation) (scale, 0-3)"
+Income farm wages,Income from farm wages in previous calendar year (1000 Le)
+Income NTFP,Income from non-timber forest products in previous calendar year (1000 Le)
+Cocoa harvest,Total cocoa production in previous calendar year (kg)

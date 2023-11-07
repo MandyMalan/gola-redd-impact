@@ -1,0 +1,7 @@
+﻿Item,Calculation,Value
+CO2 stocks per hectare,tCO2/ha,369.3
+Annual hectares of averted forest loss,ha averted/year,928.66
+Annual avoided CO2 emisssions,tCO2/ha*ha averted/year,342954.14
+Annual cost REDD+ in GBP,,268965
+Annual cost REDD+ in USD,"Exchange rate, average 2014-2019: 1.43 USD/GBP",384620
+Annual cost of avoided tCO2 Emissions in USD,Annual cost of REDD+/annual averted CO2 emmisions,1.12
